@@ -23,7 +23,7 @@
         <img src="https://badgen.net/discord/online-members/erh5Brh7jE" /></a>
 </p>
 
-foo
+foo bar
 
 <p align="center">
     <a href="https://openid.net/certification/#OPs" alt="OpenID Connect Certified">
